@@ -1,0 +1,7 @@
+{
+    "require": {
+        "prefix": "re2q",
+        "body": ["require(\"${1:module}\")"],
+        "description": "Require module"
+    }
+}
