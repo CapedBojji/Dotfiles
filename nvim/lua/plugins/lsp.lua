@@ -48,6 +48,7 @@ return {
               rojo_path = "rojo",
             },
           })
+          require("luau-lsp").treesitter()
         end,
       })
       mason_lspconfig.setup({
